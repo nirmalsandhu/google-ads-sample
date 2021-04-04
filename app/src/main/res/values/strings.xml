@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">google-ads-sample</string>
+
+    <!--    Sample IDs are same for all -->
+    <string name="sample_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="sample_app_open_ad_unit_id">ca-app-pub-3940256099942544/3419835294</string>
+
+    <string name="sample_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="sample_interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="sample_Interstitial_Video_ad_unit_id">ca-app-pub-3940256099942544/8691691433</string>
+
+    <string name="sample_Rewarded_ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="sample_Rewarded_interstitial_ad_unit_id">ca-app-pub-3940256099942544/5354046379</string>
+
+    <string name="sample_Native_Advanced_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="sample_Native_Advanced_Video_ad_unit_id">ca-app-pub-3940256099942544/1044960115</string>
+
+</resources>

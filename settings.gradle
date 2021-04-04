@@ -1,0 +1,2 @@
+rootProject.name='google-ads-sample'
+include ':app'
